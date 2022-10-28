@@ -1,0 +1,28 @@
+#c1{
+    text-decoration:line-through;
+    font-weight: bold;
+}
+#c2{
+    background-color: yellow;
+    font-weight: bold;
+}
+#c3{
+    font-style: italic;
+    text-decoration: underline;
+}
+#c6{
+    color: brown;
+    letter-spacing: 5px;
+
+}
+#c7{
+letter-spacing: 5px;
+color: brown;
+}
+#c8{
+    background-color: yellow;
+    font-weight: bold;
+}
+.p1{
+    color: brown;
+}
